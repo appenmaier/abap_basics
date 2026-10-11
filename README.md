@@ -27,3 +27,12 @@
 - [Zugriffskontrollen](skript/access-controls.md)
 
 ## Grundlagen RAP
+
+- Einführung
+  - [RAP, Architektur einer RAP-Anwendung und Laufzeitartefakte einer RAP-Anwendung](skript/rap.md)
+- Movie App
+  - [Version 1: Anzeige von Filmen](skript/movie-app-v1.md)
+  - [Version 2: Anzeige von Bewertungen](skript/movie-app-v2.md)
+  - [Version 3: Transiente Felder und Textelemente](skript/movie-app-v3.md)
+  - [Version 4: CUD-Methoden](skript/movie-app-v4.md)
+  - [Version 5: Wertehilfen, Validierungen, Ermittlungen, Aktionen und Dynamic Instance Feature Control](skript/movie-app-v5.md)
