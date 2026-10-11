@@ -9,3 +9,4 @@
 - [Doku: Verzweigungen und Fallunterscheidungen](https://appenmaier.github.io/s4hana/documentation/abap/cases)
 - [Doku: Schleifen](https://appenmaier.github.io/s4hana/documentation/abap/loops)
 - [Übungsaufgabe: ABAP-03](https://appenmaier.github.io/s4hana/exercises/abap/abap-03)
+- [Übungsaufgabe: ABAP-04](https://appenmaier.github.io/s4hana/exercises/abap/abap-04)
