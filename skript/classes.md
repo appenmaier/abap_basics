@@ -13,3 +13,4 @@
 - [Übungsaufgabe: ABAP-Objects-01](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-01)
 - [Übungsaufgabe: ABAP-Objects-03](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-03)
 - [Übungsaufgabe: ABAP-Objects-04](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-04)
+- [Startklasse für Fahrzeug-Demo](../src/zabap_demos_abap_objects/zcl_054906_main_vehicles.clas.abap)
