@@ -23,5 +23,7 @@
 - [Aggregatfunktionen](skript/aggregat-functions.md)
 - [Views mit Parametern](skript/views-with-parameters.md)
 - [Assoziationen](skript/associations.md)
+- [View-Erweiterungen](skript/view-extensions.md)
+- [Zugriffskontrollen](skript/access-controls.md)
 
 ## Grundlagen RAP
