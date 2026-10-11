@@ -8,6 +8,7 @@
 
 **Links**
 
+- [Doku: ABAP Objects](https://appenmaier.github.io/s4hana/documentation/abap-objects/)
 - [Doku: Klassen, Attribute und Methoden](https://appenmaier.github.io/s4hana/documentation/abap-objects/classes-attributes-and-methods)
 - [Übungsaufgabe: ABAP-Objects-01](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-01)
 - [Übungsaufgabe: ABAP-Objects-03](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-03)
