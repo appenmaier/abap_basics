@@ -8,3 +8,4 @@
 
 - [Doku: Objekte und Referenzvariablen](https://appenmaier.github.io/s4hana/documentation/abap-objects/objects-and-references)
 - [Übungsaufgabe: ABAP-Objects-02](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-02)
+- [Startklasse für Fahrzeug-Demo](../src/zabap_demos_abap_objects/zcl_054906_main_vehicles.clas.abap)

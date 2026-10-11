@@ -11,3 +11,4 @@
 - [Doku: Datentypen](https://appenmaier.github.io/s4hana/documentation/abap/data-types)
 - [Doku: Datenobjekte](https://appenmaier.github.io/s4hana/documentation/abap/data-objects)
 - [Übungsaufgabe: ABAP-01](https://appenmaier.github.io/s4hana/exercises/abap/abap-01)
+- [Demo 1: Data Types and Data Objects](../src/zabap_demos_abap/zcl_054906_demo_01.clas.abap)

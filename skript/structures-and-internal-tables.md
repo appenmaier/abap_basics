@@ -15,3 +15,5 @@
 - [Doku: Interne Tabellen](https://appenmaier.github.io/s4hana/documentation/abap/internal-tables)
 - [Übungsaufgabe: ABAP-05](https://appenmaier.github.io/s4hana/exercises/abap/abap-05)
 - [Übungsaufgabe: ABAP-06](https://appenmaier.github.io/s4hana/exercises/abap/abap-06)
+- [Demo 5: Structures](../src/zabap_demos_abap/zcl_054906_demo_05.clas.abap)
+- [Demo 6: Internal Tables](../src/zabap_demos_abap/zcl_054906_demo_06.clas.abap)
