@@ -10,3 +10,5 @@
 - [Doku: Schleifen](https://appenmaier.github.io/s4hana/documentation/abap/loops)
 - [Übungsaufgabe: ABAP-03](https://appenmaier.github.io/s4hana/exercises/abap/abap-03)
 - [Übungsaufgabe: ABAP-04](https://appenmaier.github.io/s4hana/exercises/abap/abap-04)
+- [Demo 3: Branches and Cases](../src/zabap_demos_abap/zcl_054906_demo_03.clas.abap)
+- [Demo 1: Loops](../src/zabap_demos_abap/zcl_054906_demo_04.clas.abap)
