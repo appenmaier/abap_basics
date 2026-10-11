@@ -1,4 +1,4 @@
-# Version 1: Anzeige von Bewertungen
+# Version 2: Anzeige von Bewertungen
 
 **Links**
 
